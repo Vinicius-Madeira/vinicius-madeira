@@ -20,9 +20,7 @@ I'm a software developer with over 2 years of experience, currently learning Nex
 ### Github Stats
 [![Vinicius's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Vinicius-Madeira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Vinicius-Madeira/github-readme-stats#gh-dark-mode-only)
 
-
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3>Tech Stack</h3>
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Css-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
